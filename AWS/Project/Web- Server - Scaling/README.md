@@ -80,3 +80,9 @@ Future Enhancements
 3.CloudWatch monitoring
 
 4.Static asset storage using Amazon S3
+
+Documentation
+
+This project is also documented as a structured case study on Medium, covering architecture decisions, implementation steps, challenges, and outcomes.
+
+🔗 Read the complete article:https://medium.com/@jhaaparna118/multi-os-web-server-deployment-on-aws-ec2-a-practical-case-study-in-cloud-automation-232802f3615f
