@@ -69,6 +69,7 @@ Key Skills Demonstrated
 6.Basic cloud infrastructure validation
 
 Project Outcome
+
 The project successfully established a multi-operating system web hosting environment within AWS. It demonstrates foundational cloud deployment skills, secure configuration practices, and automation capabilities applicable to real-world infrastructure scenarios.
 
 Future Enhancements
