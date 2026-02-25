@@ -1,0 +1,9 @@
+Project Introduction
+
+Deploying a Custom Web Template on AWS EC2
+
+This project demonstrates the process of hosting a static website template on a cloud-based virtual server using Amazon Web Services. An instance of Amazon EC2 running Amazon Linux was configured as a web server, and a custom HTML template was deployed using secure file transfer.
+
+The objective was to understand the complete workflow of cloud-based web hosting, beginning with instance creation and key pair management, followed by server configuration, web server installation, and remote file upload. The private key generated during instance creation was converted into a compatible format to establish a secure connection through WinSCP. The web template was then uploaded to the server directory and made publicly accessible through HTTP.
+
+This project provided practical exposure to virtual machine provisioning, Linux server management, SSH authentication, security group configuration, and basic web deployment practices. It reflects foundational cloud computing skills and an understanding of how infrastructure and web services interact in a real environment.
